@@ -1,0 +1,6 @@
+.bsp/
+.metals/
+.scala/
+.vscode/
+.DS_Store
+.DS_Store/
